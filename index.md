@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Christina B. Azodi
+title: Bethany M. Moore
 subtitle: PhD Candidate in Plant Biology
 use-site-title: true
 ---
@@ -22,24 +22,24 @@ Working on a personal statement
 
 |Time     |Degree     |School     |Location     |
 |---  |---  |---  |---  |
-|June 2014 - Current     |Ph.D. in Plant Biology     |Michigan State University     |East Lansing, MI     |
-|Aug 2008 - May 2012     |B.A. in Molecular Biology and Biochemistry     | Middlebury College    |Middlebury, VT    |
+|Aug 2013 - Current     |Ph.D. in Plant Biology     |Michigan State University     |East Lansing, MI     |
+|May 2003     |B.S. in Zoology     | North Carolina State University    |Raleigh, NC    |
 
 
 ## Research Experience
 
 |Time     |Position     |School     |Location     |
 |---  |---  |---  |---  |
-|June 2012 - May 2014     |Research Assistant     |Boyce Thompson Institute     |Ithaca, NY     |
-|Aug 2008 - May 2012     |B.A. in Molecular Biology and Biochemistry     | Middlebury College    |Middlebury, VT    |
+
 
 
 ## Teaching and Outreach
 
-|Time     |Degree     |School     |Location     |
+|Time     |Course     |School     |Location     |
 |---  |---  |---  |---  |
-|June 2014 - Current     |Ph.D. in Plant Biology     |Michigan State University     |East Lansing, MI     |
-|Aug 2008 - May 2012     |B.A. in Molecular Biology and Biochemistry     | Middlebury College    |Middlebury, VT    |
+|Aug 2018 - Mar 2019     |Girls Math and Science Day, Graduate Women in Science     |Michigan State University     |East Lansing, MI     |
+|Aug 2018 - Dec 2018     |Bioinformatics     |Michigan State University     |East Lansing, MI     |
+|Aug 2017 - Dec 2017     |Fundamentals in Genetics     |Michigan State University     |East Lansing, MI     |
 
 
 ## Honors and Awards
