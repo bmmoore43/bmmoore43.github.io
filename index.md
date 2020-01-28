@@ -1,15 +1,14 @@
 ---
 layout: page
 title: Bethany M. Moore
-subtitle: PhD Candidate in Plant Biology
+subtitle: PhD in Plant Biology
 use-site-title: true
 ---
 
 &nbsp;[EDUCATION](#education) &nbsp; &nbsp; [RESEARCH](#research-experience) &nbsp; &nbsp; [TEACHING/OUTREACH](#teaching-and-outreach) &nbsp; &nbsp; [+MORE](#honors-and-awards)|
 
 
-Working on a personal statement
-
+Scientist, data driven, loves plants
 
 
 
@@ -22,14 +21,15 @@ Working on a personal statement
 
 |Time     |Degree     |School     |Location     |
 |---  |---  |---  |---  |
-|Aug 2013 - Current     |Ph.D. in Plant Biology     |Michigan State University     |East Lansing, MI     |
-|May 2003     |B.S. in Zoology     | North Carolina State University    |Raleigh, NC    |
+|2013 - 2019     |Ph.D. in Plant Biology     |Michigan State University     |East Lansing, MI     |
+|     |B.S. in Zoology     | North Carolina State University    |Raleigh, NC    |
 
 
 ## Research Experience
 
 |Time     |Position     |School     |Location     |
-|---  |---  |---  |---  |
+|2013 - 2019  |Research assistant  |Michigan State University  |East Lansing, MI  |
+|2009 - 2013  |Research technician II  |Quintiles-Expression Analysis  |Durham, NC |
 
 
 
