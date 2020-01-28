@@ -1,6 +1,6 @@
 ---
 layout: page
-title: plant response to combined stress
+title: plant response to wounding stress
 show-avatar: true
 category: Jekyll
 ---
