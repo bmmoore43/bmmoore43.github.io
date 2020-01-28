@@ -7,23 +7,13 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## Coming Soon...
 
-<img src="../img/pubs/preprint.png" height="20px"> Uygun S<sup>co</sup>, **Azodi, CB<sup>co</sup>**, Shiu, SH. *Cis-regulatory code for predicting plant cell-type specific high salinity response* [bioRxiv](https://doi.org/10.1101/466326) 
+<img src="../img/pubs/preprint.png" height="20px"> **Moore BM**, Wang P, Fan P, Lee A, Leong B, Lou Y-R, Schenck CA, Sugimoto K, Lehti-Shiu MD, Last RL, Barry C, Shiu S-H. *Within and cross species predictions of plant specialized metabolism genes using transfer learning* [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.01.13.112102v1) 
 
-<img src="../img/pubs/preprint.png" height="20px">Lloyd JP, Bowman MJ, **Azodi, CB**, Moghe, GD, Childs KL, Shiu, SH. *Evolutionary characteristics of intergenic transcribed regions indicate widespread noisy transcription in the Poaceae* [bioRxiv](https://doi.org/10.1101/440933)
-
-<img src="../img/pubs/preprint.png" height="20px">Panchy NL, **Azodi CB**, Winship EF, O'Malley RC, Shiu SH. *Asymmetric evolution of the transcription profiles and cis-regulatory sites contributes to the retention of transcription factor duplicates.* [bioRxiv](https://doi.org/10.1101/115857)
-
-
-## 2017
-
-<img src="../img/pubs/journal-article.png" height="20px"> Uygun S<sup>co</sup>, Seddon AE<sup>co</sup>, **Azodi CB**, Shiu SH (2017) *Predictive models of spatial transcriptional response to high salinity.* Plant Physiol. 174:450-464 <sup>co</sup> designates co-first author [Find Here](https://www.ncbi.nlm.nih.gov/pubmed/28373393)
-
-<img src="../img/pubs/journal-article.png" height="20px"> Dowdell AS, Murphy MD, **Azodi CB**, Swanson SK, Florens L, Chen S. Zuckert WR. (2017) *Comprehensive spatial analysis of the Borrelia burgdorferi lipoproteome reveals a compartmentalization bias toward the bacterial surface.* J of Bacteriology. 174:450-464 [Find Here](https://jb.asm.org/content/jb/early/2017/01/05/JB.00658-16.full.pdf)
-
-## 2015
-
-<img src="../img/pubs/journal-article.png" height="20px"> D'Aloia CC, **Azodi CB**, Sheldon SP, Trombulak SC, Ardren WR. (2015) *Genetic models reveal historical patterns of sea lamprey population fluctuations within Lake Champlain.* PeerJ. 3:e1369 [Find Here](https://peerj.com/articles/1369/)
-
+## 2019
+<img src="../img/pubs/journal-article.png" height="20px"> **Moore BM**, Wang P, Fan P, Leong B, Schenck CA, Lloyd JP, Lehti-Shiu MD, Last RL, Pichersky E, Shiu S-H. *Robust predictions of specialized metabolism genes through machine learning* [Proc Natl Acad Sci USA](https://doi.org/10.1073/pnas.1817074116)
+ 
+## 2018
+<img src="../img/pubs/journal-article.png" height="20px"> Wang P, **Moore BM**, Panchy NL, Meng F, Lehti-Shiu MD, Shiu S-H. *Factors Influencing Gene Family Size Variation Among Related Species in a Plant Family, Solanaceae.* [Genome Biol Evol](https://doi.org/10.1093/gbe/evy193)
 
 _______________
 
