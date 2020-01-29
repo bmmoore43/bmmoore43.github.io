@@ -7,7 +7,7 @@ category: Jekyll
 
 
 <p align='center'>
-	<img src="../img/research/comb_stressHM.png" alt='CombStress' height="200px">
+	<img src="../img/research/woundstressHM.png" alt='WoundStress' height="200px">
 </p>
 
 
