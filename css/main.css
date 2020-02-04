@@ -22,7 +22,7 @@ p {
   margin: 30px 0;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Cormorant Garamond', 'Amiri', serif;
   font-weight: 800;
 }
 a {
@@ -59,7 +59,7 @@ hr.small {
 }
 
 .main-explain-area {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Cormorant Garamond', 'Amiri', serif;
   padding: 15px inherit;
 }
 
@@ -68,7 +68,7 @@ hr.small {
 }
 
 ::-moz-selection {
-  color: white;
+  color: LightCyan;
   text-shadow: none;
   background-color: {{ site.hover-col }};
 }
