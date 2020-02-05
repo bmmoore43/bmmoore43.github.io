@@ -195,7 +195,7 @@ defaults:
 link-tags: true
 
 #
-paginate_path: "/blog/page:num/"
+paginate_path: "/_posts/page:num/"
 # Exclude these files from production site
 exclude:
   - CHANGELOG.md
